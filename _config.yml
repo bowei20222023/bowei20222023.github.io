@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bo Wei / Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bo Wei"
 description              : &description "Senior Lecturer (Associate Professor in Computer Science)"
@@ -87,7 +87,7 @@ author:
   employer         : "Newcastle University, UK"
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=sm0c2cgAAAAJ&hl=en"
-  email            : "bo dot wei at newcastle dot ac dot uk"
+  email            : "bo.wei@newcastle.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
