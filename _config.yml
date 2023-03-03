@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bo Wei"
-  avatar           : "/files/bo_wei.jpg"
+  avatar           : "https://bowei20222023.github.io/files/bo_wei.jpg"
   bio              : "Senior Lecturer (Associate Professor) in Computer Science"
   location         : #"Newcastle upon Tyne, UK"
   employer         : "Newcastle University, UK"
