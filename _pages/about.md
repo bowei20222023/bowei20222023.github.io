@@ -1,14 +1,32 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Bo Wei's webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!-- Hi, welcome to Bo Wei's personal website! -->
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Short bio: Lecturer@Lancaster, PostDoc@Oxford, PhD@UNSW
+
+Research interests: AIoT (AI+IoT), IoT security, wireless sensing, mobile robotics, etc.
+
+Bo Wei has been a senior lecturer (assoicaite professor) in School of Computing at Newcastle Univesity. He was an assistant professor at Lancaster University and a postdoctoral research assistant at University of Oxford. He obtained his PhD degree in Computer Science and Engineering in 2015 from the University of New South Wales, Australia. His research interests are mobile systems, Internet of Things, Cyber Physical Systems, cyber security and wireless sensor networks.
+
+Bo is on the editorial board of Ad Hoc Networks Journal (2021 IF=4.816) and serves as Social Media Chair of CPS-IoT Week 2023. He has also been on technical program committees of more than 16 international conferences, including top-tier conferences, such as IPSN'23, EWSN'22, ECAI'20, MASS'18, etc. Bo has also been guest editors of three special issues in Electronics (incoming, impact factor(2022): 2.690) and Applied Sciences (impact factor(2021): 2.474), respectively. Bo was the session chair of BuildSys'20 and IROS'20 as well.
+
+Full publication list: https://scholar.google.com/citations?user=sm0c2cgAAAAJ
+
+Email: firstname.lastname@newcastle.ac.uk or bowei20222023 at gmail dot com
+If you have my other personal email addresses @gmail/outlook, they are also monitored.
+
+More contents will be updated soon!
+
+Last updated: 3 March 2023
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +66,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
