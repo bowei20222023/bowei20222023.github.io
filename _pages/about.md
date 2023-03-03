@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- Hi, welcome to Bo Wei's personal website! -->
 
-Short bio: Lecturer@Lancaster, PostDoc@Oxford, PhD@UNSW
+Short bio: Senior Lecturer@Newcastle(UK), PostDoc@Oxford, PhD@UNSW
 
 Research interests: AIoT (AI+IoT), IoT security, wireless sensing, mobile robotics, etc.
 
