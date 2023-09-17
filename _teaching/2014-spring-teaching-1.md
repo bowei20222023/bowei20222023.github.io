@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching at Newcastle University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Newcastle University, School of Computing"
+date: 2023-01-01
+location: "Newcastle, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching at Newcastle University
+* CSC8113: Research Methods and Group Project in Cloud Computing, Module leader, 2023 -  Present
+* CSC8021: Computer Networks, Module leader, 2023 -  Present
 
-Heading 1
+CSC8113: Research Methods and Group Project in Cloud Computing
 ======
+Module leader, 2023 -  Present
 
-Heading 2
+CSC8021: Computer Networks
 ======
+Module leader, 2023 -  Present
 
-Heading 3
-======
