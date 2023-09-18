@@ -18,6 +18,7 @@ Bo Wei has been a senior lecturer (associate professor) in School of Computing a
 Bo is on the editorial board of Ad Hoc Networks Journal (2021 IF=4.816) and serves as Social Media Chair of CPS-IoT Week 2023. He has also been on technical program committees of more than 16 international conferences, including top-tier conferences, such as IPSN'23, EWSN'22, ECAI'20, MASS'18, etc. Bo has also been guest editors of three special issues in Electronics (incoming, impact factor(2022): 2.690) and Applied Sciences (impact factor(2021): 2.474), respectively. Bo was the session chair of BuildSys'20 and IROS'20 as well.
 
 Full publication list: [https://scholar.google.com/citations?user=sm0c2cgAAAAJ](https://scholar.google.com/citations?user=sm0c2cgAAAAJ)
+
 Official University Website: [https://www.ncl.ac.uk/computing/staff/profile/bowei.html](https://www.ncl.ac.uk/computing/staff/profile/bowei.html)
 
 Email: firstname.lastname@newcastle.ac.uk or bowei20222023 at gmail dot com
