@@ -11,6 +11,8 @@ My research interests focus on the following areas
 * Area 2: indoor localisation, mobile robotics
 * Area 3: cyber security on IoT and mobile devices
 
+My full list of publications are available in my [Google Citation](https://scholar.google.co.uk/citations?user=sm0c2cgAAAAJ&hl=en)
+
 Potential PhD students
 ======
 * Please send your CV and your transcripts to my email. I will get back to you at my earliest convenience. 
