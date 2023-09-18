@@ -22,6 +22,15 @@ Full publication list: [https://scholar.google.com/citations?user=sm0c2cgAAAAJ](
 Email: firstname.lastname@newcastle.ac.uk or bowei20222023 at gmail dot com
 If you have my other personal email addresses @gmail/outlook, they are also monitored.
 
+
+Student Recruit
+======
+
+
+News
+======
+* 02.2023 Move to Newcastle University, UK, as a Senior Lecturer (Associate Professor)
+
 <!--**More contents will be updated soon! Other pages are placeholders now. ** -->
 
 Last updated: 29 Aug 2023
