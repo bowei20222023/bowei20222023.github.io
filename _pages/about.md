@@ -27,9 +27,9 @@ If you have my other personal email addresses @gmail/outlook, they are also moni
 
 Student Recruit
 ======
-PhD and Visitor Positions are open all year round.
-
-China CSC PhD or visitors are welcome.
+PhD and Visitor Positions are open all year round.\
+China CSC PhD or visitors are welcome.\
+Commonwealth scholarship applications can be supported. 
 
 Please send your CV and your transcripts to my email. I will get back to you at my earliest convenience.
 
