@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Hi, welcome to Bo Wei's personal website! -->
+<!-- Hi, welcome to Dr Bo Wei's personal website! -->
 
 Short bio: Senior Lecturer@Newcastle(UK), PostDoc@Oxford, PhD@UNSW
 
 Research interests: AIoT (AI+IoT), IoT security, wireless sensing, mobile robotics, etc.
 
-Bo Wei has been a senior lecturer (associate professor) in School of Computing at Newcastle University. He was an assistant professor at Lancaster University and a postdoctoral research assistant at University of Oxford. He obtained his PhD degree in Computer Science and Engineering in 2015 from the University of New South Wales, Australia. His research interests are mobile systems, Internet of Things, Cyber Physical Systems, cyber security and wireless sensor networks.
+Dr Bo Wei has been a senior lecturer (associate professor) in School of Computing at Newcastle University. He was an assistant professor at Lancaster University and a postdoctoral research assistant at University of Oxford. He obtained his PhD degree in Computer Science and Engineering in 2015 from the University of New South Wales, Australia. His research interests are mobile systems, Internet of Things, Cyber Physical Systems, cyber security and wireless sensor networks.
 
 Bo is on the editorial board of Ad Hoc Networks Journal (2021 IF=4.816) and serves as Social Media Chair of CPS-IoT Week 2023. He has also been on technical program committees of more than 16 international conferences, including top-tier conferences, such as IPSN'23, EWSN'22, ECAI'20, MASS'18, etc. Bo has also been guest editors of three special issues in Electronics (incoming, impact factor(2022): 2.690) and Applied Sciences (impact factor(2021): 2.474), respectively. Bo was the session chair of BuildSys'20 and IROS'20 as well.
 
