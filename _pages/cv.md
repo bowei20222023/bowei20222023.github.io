@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, University New South Wales, Australian, 2015
+* Ph.D in Computer Science and Engineering, University New South Wales, Australia, 2015
 
 Work experience
 ======
-* Senior Lecturer, Newcastle University
-* Lecturer, Lancaster University
-* PostDoc, Oxford University
+* Senior Lecturer (Associate Professor), School of Computing, Newcastle University, UK
+* Lecturer (Assistant Professor), School of Computing and Communications, Lancaster University
+* PostDoc, Department of Computing Science, Oxford University
 
   
 
