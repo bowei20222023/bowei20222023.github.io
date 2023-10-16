@@ -33,7 +33,16 @@ Commonwealth scholarship applications can be supported.
 
 Please send your CV and your transcripts to my email. I will get back to you at my earliest convenience.
 
+Professional Services
+======
+Editorial board: Ad Hoc Networks Journal (IF=4.816)
 
+Technical program committees of more than 16 international conferences\ 
+including top-tier conferences, such as IPSN (2023,2024), EWSN(2022,2023), etc
+
+Organisation: 
+Social Media Chair of CPS-IoT Week 2023\
+Publication chair WoWMoM 2024
 
 News
 ======
