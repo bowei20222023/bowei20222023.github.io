@@ -21,7 +21,7 @@ Full publication list: [https://scholar.google.com/citations?user=sm0c2cgAAAAJ](
 
 Official University Website: [https://www.ncl.ac.uk/computing/staff/profile/bowei.html](https://www.ncl.ac.uk/computing/staff/profile/bowei.html)
 
-**Email**: firstname.lastname at newcastle.ac.uk or bowei20222023 at gmail dot com
+**Email**: bo.wei@newcastle.ac.uk or bowei20222023 at gmail dot com \
 If you have my other personal email addresses @gmail/outlook, they are also monitored.
 
 
