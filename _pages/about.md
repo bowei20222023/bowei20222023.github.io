@@ -48,6 +48,8 @@ Publication chair WoWMoM 2024
 
 News
 ======
+* 02.2024 UKRI AI hub, EdgeAI, (~£12m), is approved. Happy to be a Co-PI of this project.
+* 05.2023 Appointed as Deputy Director of Research, School of Computing
 * 02.2023 Move to Newcastle University, UK, as a Senior Lecturer (Associate Professor)
 
 <!--**More contents will be updated soon! Other pages are placeholders now. ** -->
