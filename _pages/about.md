@@ -29,7 +29,7 @@ Student Recruit
 ======
 PhD and Visitor Positions are open all year round.\
 China CSC PhD or visitors are welcome.\
-Self-funded students are welcome as well.\
+Self-funded students (including government-funded and industry-funded) are welcome as well.\
 Commonwealth scholarship applications can be supported. 
 
 Please send your CV and your transcripts to my email. I will get back to you at my earliest convenience.\
