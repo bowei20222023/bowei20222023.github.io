@@ -11,7 +11,7 @@ redirect_from:
 
 Short bio: Senior Lecturer@Newcastle(UK), PostDoc@Oxford, PhD@UNSW
 
-Research interests: Edge AI, mobile robotics, IoT security, wireless sensing etc.
+Research interests: Edge **<u>AI</u>**, mobile **<u>robotics</u>**, **<u>IoT</u>** security, wireless sensing etc.
 
 Dr Bo Wei has been a senior lecturer (associate professor) in School of Computing at Newcastle University. He was an assistant professor at School of Computing and Communications, Lancaster University and a postdoctoral research assistant at Department of Computer Science, University of Oxford. He obtained his PhD degree in Computer Science and Engineering in 2015 from the University of New South Wales, Australia. His research interests are mobile systems, Internet of Things, Cyber Physical Systems, cyber security and wireless sensor networks. Bo regularly publishes papers in top conferences, such as Ubicomp, IPSN, SenSys, ICRA, IROS as well as IEEE/ACM transactions.
 
