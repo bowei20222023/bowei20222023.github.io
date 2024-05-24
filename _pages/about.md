@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- Hi, welcome to Dr Bo Wei's personal website! -->
 
-Short bio: Senior Lecturer@Newcastle(UK), PostDoc@Oxford, PhD@UNSW
+Short bio: Associate Professor@Newcastle(UK), PostDoc@Oxford, PhD@UNSW
 
 Research interests: Edge **<u>AI</u>**, mobile **<u>robotics</u>**, **<u>IoT</u>** security, wireless sensing etc.
 
