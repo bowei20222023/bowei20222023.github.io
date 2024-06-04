@@ -48,6 +48,7 @@ Publication chair WoWMoM 2024
 
 News
 ======
+* 06.2024 Paper about acoustic signal-based key generation is accepted by IEEE/ACM Transactions on Networking!
 * 04.2024 Paper about WiFi based indoor localisation is accepted by IEEE Robotics and Automation Letters!
 * 02.2024 UKRI AI hub, EdgeAI, (~£12m), is approved. Happy to be a Co-PI of this project.
 * 11.2023 Paper accepted by ACM TOSN (Solar panel based key generation) and presented in SenSys 2023!
