@@ -48,7 +48,7 @@ Publication chair WoWMoM 2024
 
 News
 ======
-* 11.2024 New PhD student Udo starts. Welcome!
+* 10.2024 New PhD student Udo starts. Welcome!
 * 08.2024 Paper about key generation using heartbeats obtained from different type of devices has been accepted by IEEE Transactions on Mobile Computing!
 * 06.2024 Paper about acoustic signal-based key generation is accepted by IEEE/ACM Transactions on Networking!
 * 04.2024 Paper about WiFi based indoor localisation is accepted by IEEE Robotics and Automation Letters!
