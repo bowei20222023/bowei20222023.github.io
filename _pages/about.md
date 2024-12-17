@@ -48,6 +48,7 @@ Publication chair WoWMoM 2024
 
 News
 ======
+* 12.2024 Paper about 3D Semantic Segmentation accepted by AAAI 2025 (acceptance rate of 23.4%)!  
 * 10.2024 New PhD student Udo starts. Welcome!
 * 08.2024 Paper about key generation using heartbeats obtained from different type of devices has been accepted by IEEE Transactions on Mobile Computing!
 * 06.2024 Paper about acoustic signal-based key generation is accepted by IEEE/ACM Transactions on Networking!
